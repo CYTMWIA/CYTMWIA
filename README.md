@@ -1,5 +1,5 @@
 ### CYTMWIA
 
-内容匮乏
+[Blog](https://cytmwia.github.io)
 
-<!-- You found a secret! -->
+![CYTMWIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYTMWIA&show_icons=true)
